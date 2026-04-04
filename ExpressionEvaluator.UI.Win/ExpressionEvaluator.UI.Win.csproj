@@ -8,4 +8,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="h5hbq1sr.lu5~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExpressionEvaluator.Core\ExpressionEvaluator.Core.csproj" />
+  </ItemGroup>
+
 </Project>

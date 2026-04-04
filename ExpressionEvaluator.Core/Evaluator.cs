@@ -122,4 +122,6 @@ public class Evaluator
     };
 
     private static bool IsOperator(char c) => "+-*/^".Contains(c);
+
+    
 }
